@@ -1,11 +1,11 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.6",
     "notes": "Relase",
     "pub_date": "2025-05-04T20:45:00Z",
     "platforms": {
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRSGdBK0lmYjhNcEM3WHNYcTJraEJzR1BxSFlnNi83WjR6d0cxT2N5UGlSRGxxQ0R4eGxNMTRWbWFQZFlsc2FJeW1hbnV4bTlBZ3lKeW9ZSDRvVFVvdVJON0NNbjFSVFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzODY3OTA5CWZpbGU6Rml4ZWRNdV8wLjEuNF94NjQtc2V0dXAuZXhlCmlncVdGM0RCQXMrNDdFZGpJelZlakpmRzlaUSt3eDhxbVNKdHpDa0lQNHF4NnNsUDdkazM4alA5KzByYm1mQm5JbGJ5NnpiblhFZ1VtRVQrQndVakF3PT0K",
-        "url": "https://kropacodemaster.github.io/launcher/FixedMu_0.1.0_x64-setup.exe"
+        "url": "https://kropacodemaster.github.io/launcher/FixedMu_0.1.6_x64-setup.exe"
       }
     }
   }
